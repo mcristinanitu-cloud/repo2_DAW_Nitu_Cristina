@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Modifico archivo en main
+=======
+Esto es una prueba de conflictos
+Modifico archivo
+>>>>>>> nuevarama2
+Mantenemos prueba de conflictos main
